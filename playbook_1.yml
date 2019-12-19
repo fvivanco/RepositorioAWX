@@ -2,6 +2,7 @@
 - name: Hello World Sample
   hosts: all
   ansible_become: True
+  remote_user: fvivanco
   tasks:
     - name: runnex_launcher
       command: python3 /root/ades/execution_launcher.py
