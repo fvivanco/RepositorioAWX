@@ -4,4 +4,4 @@
   remote_user: fvivanco
   tasks:
     - name: runnex_launcher
-      command: python3 /root/ades/execution_launcher.py
+      command: echo "Hola Yorman"
