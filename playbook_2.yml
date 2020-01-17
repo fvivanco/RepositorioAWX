@@ -5,4 +5,4 @@
   tasks:
     - name: runnex_launcher
       command: echo "Hola Yorman Yorman"
-      command: python /home/canvia/Escritorio/borrado.py
+      command: python3 /home/canvia/Escritorio/borrado.py
