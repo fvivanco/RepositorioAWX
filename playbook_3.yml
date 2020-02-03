@@ -1,0 +1,8 @@
+ 
+- name: Hello World Sample
+  hosts: 10.240.30.125
+  remote_user: fvivanco
+  tasks:
+    - name: runnex_launcher
+      command: echo "Hola Yorman Yorman"
+      command: python3 /home/fvivanco/borrado.py
